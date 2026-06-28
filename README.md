@@ -2,7 +2,7 @@
 
 A Student at Universitas Logistik dan Bisnis Internasional
 
-- 🌱 I'm currently learning **Machine Learning** and **Web Development**
+- 🌱 I'm currently learning
 - 📫 How to reach me **neisyarahmahafid@gmail.com**
 - ⚡ Fun fact: I love coding and exploring new technologies!
 
