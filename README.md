@@ -2,7 +2,7 @@
 
 A Student at Universitas Logistik dan Bisnis Internasional
 
-- 🌱 I'm currently learning 
+- 🌱 I'm currently learning **Machine Learning** and **Web Development**
 - 📫 How to reach me **neisyarahmahafid@gmail.com**
 - ⚡ Fun fact: I love coding and exploring new technologies!
 
@@ -27,6 +27,8 @@ A Student at Universitas Logistik dan Bisnis Internasional
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
   <!-- MySQL / XAMPP -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>&nbsp;
+  <!-- MongoDB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>&nbsp;
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
